@@ -16,10 +16,13 @@ Please note that this is not a finished product and there is a strong chance tha
 - And more on the way!
 
 ### **Technology Stack**
-React.js
-Node.js
-Express.js
-Firebase
+- React.js
+
+- Node.js
+
+- Express.js
+
+- Firebase
 
 ### **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
